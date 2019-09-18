@@ -1,9 +1,5 @@
-# thiya
-my baby
-love u,
-c u,
-chinni kanna,
-apple,
-kitchen,
-chiken
-done
+hello
+this is mt git hub file
+welcome
+
+
